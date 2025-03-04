@@ -1,6 +1,6 @@
 # PRVQL: Progressive Knowledge-Guided Refinement for Robust Egocentric Visual Query Localization
 
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://youtu.be/_80-whm9e0I)
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://youtu.be/SoQ0edo6pJo)
 
 ## 📝 Overview
 
