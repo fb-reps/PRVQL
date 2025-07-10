@@ -1,6 +1,9 @@
 # PRVQL: Progressive Knowledge-Guided Refinement for Robust Egocentric Visual Query Localization
 
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://youtu.be/SoQ0edo6pJo)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/html/2502.07707v2)
+
+> **🎉 This work has been accepted to ICCV 2025!**
 
 ## 📝 Overview
 
